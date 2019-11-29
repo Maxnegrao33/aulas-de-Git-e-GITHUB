@@ -1,0 +1,2 @@
+Preciso acertar o code .
+Não consigo ajeitar o comando para abrir o editor pelo git
