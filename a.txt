@@ -1,2 +1,11 @@
 Preciso acertar o code .
 Não consigo ajeitar o comando para abrir o editor pelo git
+
+No dia 27/11/19, foi substituído o uso do Sublime Text 3
+Pelo VsCode e setado na variável de ambiente, e estão ficou normalizado
+Vi e descobri em fóruns pela internet que o Git não possui o pluginn para 
+interação com o Subile Text 3;
+Então porque no momento de instalação, aparece a opção de usar o 
+Sublime Text 3 ?
+
+Esta linha foi modificada

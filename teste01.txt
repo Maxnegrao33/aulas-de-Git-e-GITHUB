@@ -1,0 +1,3 @@
+Arquivo criado para fins de testar e aprender comandos no git
+
+mesmo código
